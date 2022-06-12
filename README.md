@@ -30,5 +30,15 @@
 
   Merge와 같은 개념이지만 이력이 남지 않는다.
 
+- ## 명령어
+
+  ### 1. 새로운 Branch 생성
+
+  `git branch <Branch명>`
+
+  ### 2. Branch 이동
+
+  `git checkout <Branch명>`
+
 - 참고자료
   https://inpa.tistory.com/453
