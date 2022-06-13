@@ -40,5 +40,9 @@
 
   `git checkout <Branch명>`
 
+  ### 3. Branch 생성 후 바로 이동
+
+  `git checkout -b <Branch명>`
+
 - 참고자료
   https://inpa.tistory.com/453
