@@ -44,5 +44,14 @@
 
   `git checkout -b <Branch명>`
 
+  ### 3. Branch 병합
+
+  `git merge <Branch명>`<br>
+  현재 Branch를 기준으로 입력한 Branch를 병합시킨다.
+
+  ### 4. Branch 삭제
+
+  `git branch -D <Branch명>`
+
 - 참고자료
   https://inpa.tistory.com/453
